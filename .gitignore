@@ -1,0 +1,39 @@
+# Octave/MATLAB generated files
+*.m~
+*.mex*
+*.asv
+octave-workspace
+*.log
+*.aux
+*.out
+*.blg
+*.bbl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+.#*
+
+# LaTeX build artifacts
+*.pdf
+*.fls
+*.fdb_latexmk
+*.pag
+*.spl
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*bak*
+*backup*
+*.old
